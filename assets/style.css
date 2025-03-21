@@ -1,0 +1,15 @@
+nav {
+  .container {
+    .navbar-brand {
+      color: white !important;
+      font-size: 25px !important;
+      font-weight: bold !important;
+    }
+  }
+}
+.card {
+  margin: 12px;
+}
+.dragging {
+  opacity: 0.3;
+}
