@@ -18,10 +18,12 @@ A simple task manager using **JavaScript, LocalStorage, and SweetAlert2**, allow
 ## 📂 Installation & Usage
 
 1. **Clone the repository:**
-   ```sh
-   git clone https://github.com/HaSh3003/Mini-Kanban
-   cd YOUR_REPO
-   ```
+
+```sh
+git clone https://github.com/HaSh3003/Mini-Kanban
+cd YOUR_REPO
+```
+
 2. **Open the project:**
    - Just open `index.html` in a browser. No server required! 🎉
 
@@ -66,4 +68,3 @@ If you have any questions, feel free to reach out!
 📩 Email: [perfecto.dev@programmer.net](mailto:perfecto.dev@programmer.net)\
 🐦 Twitter: [@HaSh_Perfecto](https://x.com/HaSh_Perfecto)\
 💻 GitHub: [HaSh3003](https://github.com/HaSh3003)
-
