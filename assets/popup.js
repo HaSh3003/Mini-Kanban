@@ -20,6 +20,14 @@ document.addEventListener("DOMContentLoaded", function () {
           color: "#dc3545",
           iconColor: "#dc3545",
         });
+        const nameHoster = document.getElementById("name");
+
+        let username = localStorage.getItem("username");
+
+        if (!username || username === "") {
+          username = "User";
+        }
+        nameHoster.innerHTML = username;
       }
     });
   }
