@@ -21,7 +21,7 @@ A simple task manager using **JavaScript, LocalStorage, and SweetAlert2**, allow
 
 ```sh
 git clone https://github.com/HaSh3003/Mini-Kanban
-cd YOUR_REPO
+cd Mini-Kanban
 ```
 
 2. **Open the project:**
